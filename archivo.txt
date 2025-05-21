@@ -1,1 +1,2 @@
 Prueba de control de versiones con GIT
+hay cambios nuevos que se acaban de hacer
